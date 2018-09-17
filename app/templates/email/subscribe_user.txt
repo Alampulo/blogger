@@ -1,0 +1,5 @@
+Hello {{subscriber.name}}
+Thank you for subscribing to the HOME OF Natty rsatafarian movt
+Stay tuned for more updates from dreads
+ital
+bongo natty

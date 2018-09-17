@@ -1,0 +1,3 @@
+Hello {{sub.name}}
+Check out our new blog post
+Yours faithfully,
