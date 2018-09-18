@@ -5,7 +5,7 @@ This is a natty blog
 
 * Good internet connection.
 * Ensure both virtual and python are installed on your machine.
-* Work on virtual
+* Work while on the  virtual
 
 <br/>
 
