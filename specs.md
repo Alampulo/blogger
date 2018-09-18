@@ -1,7 +1,7 @@
 # BLOG
 This is a natty blog
 
-#### PROJECT SPECIFICATIONS
+### PROJECT SPECIFICATIONS
 
 * Good internet connection.
 * Ensure both virtual and python are installed on your machine.
