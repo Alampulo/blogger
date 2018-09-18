@@ -1,6 +1,8 @@
 # BLOG
-This is a poetry blog
+This is a natty blog
+
 #### PROJECT SPECIFICATIONS
+
 * Good internet connection.
 * Ensure both virtual and python are installed on your machine.
 * Work on virtual
